@@ -20,3 +20,7 @@ steps:
 
 - script: pwd
   displayName: 'current directory'
+
+
+- script: ls -a
+  displayName: 'current directory'
